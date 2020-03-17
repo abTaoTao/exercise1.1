@@ -2,6 +2,9 @@ import java.util.Scanner;
 import java.math.BigInteger;
 
 public class Fibicount {
+	
+	
+	
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         BigInteger a = scan.nextBigInteger();
