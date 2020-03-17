@@ -25,8 +25,7 @@ public class Fibicount {
 		
         System.out.println(count);
 		 System.out.println(count);
-		  System.out.println(count);
-        System.out.println("hello");
+		
 		
 		  
     }
